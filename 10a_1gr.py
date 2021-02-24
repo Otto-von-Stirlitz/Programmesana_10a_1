@@ -23,3 +23,4 @@ print(5+6)
 11 Obrazcova Marija
 
 12 Ðvacka Marija
+print(7+27)
